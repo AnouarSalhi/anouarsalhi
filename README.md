@@ -7,7 +7,7 @@ Software engineer
 -----------------
 
 * 🌍  I'm based in Morocco
-* 🖥️  See my portfolio at [https://anouarsalhi.github.io/](http://https://anouarsalhi.github.io/)
+* 🖥️  See my portfolio at [https://anouarsalhi.github.io/](http://anouarsalhi.github.io/)
 * ✉️  You can contact me at [anouarsalhi72@gmail.com](mailto:anouarsalhi72@gmail.com)
 * 🧠  I'm learning Spring / Java / JEE / Angular
 
