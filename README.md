@@ -26,7 +26,7 @@ Software engineer
 <a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="36" height="36" alt="Laravel" /></a>
 <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
 </p>
-<image src="https://media.giphy.com/media/B1xUp52rUnrv1Leakw/giphy-downsized-large.gif" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen><p><a href="https://giphy.com/gifs/EvaGarnerSecretEden-space-eva-garner-the-secret-of-eden-B1xUp52rUnrv1Leakw">via GIPHY</a></p>
+<image src="https://media.giphy.com/media/B1xUp52rUnrv1Leakw/giphy-downsized-large.gif" width="480" height="270"  >
 
 
 ### Socials
