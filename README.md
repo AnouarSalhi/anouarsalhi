@@ -13,5 +13,5 @@ Software engineer student
 
 ### Socials
 
-<p align="left"> <a href="https://www.linkedin.com/in/anouar-salhi/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-
+<p align="left"> <a href="https://www.linkedin.com/in/anouar-salhi/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-</a>
 
