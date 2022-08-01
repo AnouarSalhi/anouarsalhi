@@ -15,3 +15,4 @@ Software engineer student
 ### Socials
 
 <p align="left"> <a href="https://www.linkedin.com/in/anouar-salhi/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-
+<div style="height:300px; width:450px; color:#000000; background:#CCC"> Add your text here</div>
