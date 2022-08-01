@@ -3,7 +3,7 @@
 Hi 👋 My name is Anouar Salhi
 =============================
 
-Software engineer
+Software engineer student
 -----------------
 
 * 🌍  I'm based in Morocco
