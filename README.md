@@ -1,4 +1,4 @@
-<div style="height:300px; width:450px; color:#000000; background:#CCC">
+
 Hi 👋 My name is Anouar Salhi
 =============================
 
@@ -15,4 +15,4 @@ Software engineer student
 ### Socials
 
 <p align="left"> <a href="https://www.linkedin.com/in/anouar-salhi/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
-</div> 
+
