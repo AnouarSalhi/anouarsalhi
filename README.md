@@ -10,7 +10,6 @@ Software engineer student
 * ✉️  You can contact me at [anouarsalhi72@gmail.com](mailto:anouarsalhi72@gmail.com)
 * 🧠  I'm learning Spring / Java / JEE / Angular
 
-<div style="height:300px; width:450px; color:#000000; background:#CCC"> Add your text here</div>
 
 ### Socials
 
